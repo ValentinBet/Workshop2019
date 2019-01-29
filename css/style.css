@@ -122,8 +122,18 @@ Home sections
 
 .home-section {
     width: 100%;
-    padding: 90px 0 150px 0;
+    padding: 20px 0 20px 0;
 }
+
+.spacer {
+    padding : 80px;
+}
+
+
+.imgRow {
+   margin-bottom: 20px;
+}
+
 
 /* --- heading --- */
 .section-heading {

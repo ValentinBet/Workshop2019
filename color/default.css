@@ -1,20 +1,20 @@
 a, a:hover{
-	color: #529abb;
+	color: #b03566;
 }
 .navbar-default{
-	background: #529abb;
+	background: #b03566;
 }
 
 .form-control:focus {
-  border-color: #529abb;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #529abb;
-          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #529abb;
+  border-color: #b03566;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #b03566;
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 2px #b03566;
 }
 
 .service .carousel-indicators .active {
-	background: #529abb;
+	background: #b03566;
 }
 
 .btn-theme {
-	background: #529abb;
+	background: #b03566;
 }

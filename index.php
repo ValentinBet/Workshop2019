@@ -167,7 +167,7 @@
         </div>
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
-                <div class="row">
+                <div class="row imgRow">
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                         <div class="box-team wow bounceInDown" data-wow-delay="0.1s">
                             <img src="img/team/1.jpg" alt="" class="img-responsive"/>
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row imgRow">
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                         <div class="box-team wow bounceInDown" data-wow-delay="0.1s">
                             <img src="img/team/7.png" alt="" class="img-responsive"/>
@@ -248,8 +248,8 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
 
-                <img src="img/ft_logo-3.jpg" alt="">
-                <img src="img/téléchargé.png" alt="">
+                <img src="img/ft_logo-3.png" alt="">
+                <img src="img/YnovLogo.png" alt="">
             </div>
         </div>
     </div>
