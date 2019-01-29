@@ -84,7 +84,7 @@ jQuery(document).ready(function($) {
                 url: "contactform/contactform.php",
                 data: str,
                 success: function(msg){
-                    if(msg == 'OK') {
+                    if(msg) {
                         $("#sendmessage").addClass("show");
                         $("#errormessage").removeClass("show");	
                     }
