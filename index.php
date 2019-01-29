@@ -108,10 +108,15 @@
         <div class="row">
             <ul>
                 <h4>Consulting</h4>
-                <li>Pour une stratégie digitale performante, nous vous accompagnerons dans l’analyse de l'environnement
+                <li>Pour une meilleur stratégie digitale, nous vous suivrons tout au long dans l’analyse de
+                    l'environnement
                     et du contexte concurrentiel, dans la connaissance de vos utilisateurs, de vos publics,
                     de vos prospects et de vos clients. Retrouvez une implication totale de la part de l’équipe Made.
                     dans la création, l’optimisation et la compréhension de votre entreprise.
+                </li>
+                <h4>Identité visuelle et solutions print :</h4>
+                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Made.
+                    accompagne les entreprises tout au long de leur développement dans la valorisation a l'image.
                 </li>
                 <h4>Webmarketing et référencement :</h4>
                 <li>Améliorez votre présence sur les réseaux sociaux grâce à nos solutions clés en main pour dynamiser
@@ -119,15 +124,11 @@
                     campagnes de médiatisation et de notoriété créées de manière sur-mesure par notre équipe, développez
                     votre notoriété.
                 </li>
-                <h4>Identité visuelle et solutions print : Logo/visuel clé/iconographique</h4>
-                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Notre
-                    équipe de créatifs vous réalisera des supports de communication mais également une création ou une
-                    refonte de site internet de qualité en réponse à vos attentes.
-                </li>
-                <h4>Service informatique:</h4>
-                <li>Made. est composée d’une cellule dédiée au développement de solutions uniques et innovantes. Nos
-                    experts du digital sont à la pointe de l’innovation technique et seront continuellement à votre
-                    écoute.
+                <h4>Service informatique / SEO:</h4>
+                <li>Made. est composée d’une cellule dédiée au développement et à la SEO, nos
+                    experts du digital vous proposerons des sites et site e-commerce sur mesures, au design personalisé
+                    et seront continuellement à votre
+                    écoute pour répondre a vos besoins.
                 </li>
 
             </ul>
@@ -316,7 +317,7 @@
                     </div>
 
                     <div class="text-center">
-                        <butt5on type="submit" class="btn btn-theme btn-lg btn-block">Envoyer le message</butt5on>
+                        <button type="submit" class="btn btn-theme btn-lg btn-block">Envoyer le message</button>
                     </div>
                 </form>
 
