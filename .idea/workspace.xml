@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81bab06-1bd0-44c2-9c7e-a066b2b3373e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/spacer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/spacer/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/spacer/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/spacer/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+            <state relative-caret-position="434">
+              <caret line="152" column="122" selection-start-line="152" selection-start-column="122" selection-end-line="152" selection-end-column="122" />
             </state>
           </provider>
         </entry>
@@ -128,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="192" />
     <option name="y" value="-15" />
     <option name="width" value="1455" />
@@ -204,12 +195,12 @@
       <workItem from="1548750121643" duration="2524000" />
       <workItem from="1548756379993" duration="3966000" />
       <workItem from="1548766435473" duration="3422000" />
-      <workItem from="1548769978130" duration="4363000" />
+      <workItem from="1548769978130" duration="4499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31946000" />
+    <option name="totallyTimeSpent" value="32082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -380,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+        <state relative-caret-position="434">
+          <caret line="152" column="122" selection-start-line="152" selection-start-column="122" selection-end-line="152" selection-end-column="122" />
         </state>
       </provider>
     </entry>
