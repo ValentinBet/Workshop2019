@@ -328,7 +328,7 @@
             <div class="col-md-offset-2 col-md-8">
                 <h5>Made. est sur les réseaux sociaux !!</h5>
                 <ul class="social-network">
-                    <li><a href="https://www.facebook.com/">
+                    <li><a href="https://www.facebook.com/Made.Incorporation/">
 						<span class="fa-stack fa-2x">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
