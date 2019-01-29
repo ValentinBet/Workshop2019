@@ -150,7 +150,7 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
                 <h4>Notre équipe est construite autour de valeurs qui nous définissent et que nous mettons en place dans chaque projet que nous réalisons :</h4>
-                <p><strong>Ambition : </strong>nous voulons inscrire le gout du challenge, la recherche d’objectifs. Cetet valeur nous permet de mener les projets à leur réussite.
+                <p><strong>Ambition : </strong>nous voulons inscrire le gout du challenge, la recherche d’objectifs. Cette valeur nous permet de mener les projets à leur réussite.
                 </p>
 
                 <p><strong>Flexibilité : </strong>c'est notre capacité à changer rapidement en fonction des désirs du client. Nous nous adaptons au fur et à mesure à l’évolution du projet et des attentes du client.
