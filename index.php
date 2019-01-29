@@ -148,16 +148,16 @@
         </div>
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
-                <h4>Notre équipe gravite autour de valeurs communes qui nous définissent et nous les mettons au centre
-                    de nos réalisations :</h4>
-                <p><strong>Digital : </strong>le digital est bien plus qu’un phénomène de mode, mais bel et bien une
-                    culture à part entière. Étant tous issus de la génération Y (née entre 1980 et 1999),
-                    cette dimension est au centre de nos préoccupations.
-                </p>
-                <p><strong>La personnalisation : </strong>grâce à nos parcours et expériences différents,
+                <h4>Notre équipe est construite autour de valeurs qui nous définissent et que nous mettons en place dans chaque projet que nous réalisons :</h4>
+                <p><strong>Ambition : </strong>nous voulons inscrire le gout du challenge, la recherche d’objectifs. Cetet valeur nous permet de mener les projets à leur réussite.
                 </p>
 
-                <p><strong>La cohésion :</strong></p>
+                <p><strong>Flexibilité : </strong>c'est notre capacité à changer rapidement en fonction des désirs du client. Nous nous adaptons au fur et à mesure à l’évolution du projet et des attentes du client.
+                </p>
+
+                <p><strong>Réactivité : </strong>Nous devons être constamment à l’écoute de nos clients afin de nous adapter à leurs besoins et les anticiper.
+                </p>
+
             </div>
         </div>
     </div>
@@ -192,28 +192,28 @@
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                         <div class="box-team wow bounceInDown" data-wow-delay="0.1s">
                             <img src="img/team/1.jpg" alt="" class="img-responsive"/>
-                            <h4>Mathieu Le Montréer</h4>
+                            <h4>Mathieu<br/>Le Montréer</h4>
                             <p>CEO</p>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/6.jpg" alt="" class="img-responsive"/>
-                            <h4>Valentin Antonucci</h4>
+                            <h4>Valentin<br/>Antonucci</h4>
                             <p>Directeur artistique</p>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.5s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/3.jpg" alt="" class="img-responsive"/>
-                            <h4>Mathilde Porcu</h4>
+                            <h4>Mathilde<br/>Porcu</h4>
                             <p>Community manager</p>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.7s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/2.jpg" alt="" class="img-responsive"/>
-                            <h4>Lucie Moulin</h4>
+                            <h4>Lucie<br/>Moulin</h4>
                             <p>Directrice artistique</p>
                         </div>
                     </div>
@@ -221,8 +221,8 @@
                 <div class="row imgRow">
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                         <div class="box-team wow bounceInDown" data-wow-delay="0.1s">
-                            <img src="img/team/7.png" alt="" class="img-responsive"/>
-                            <h4>Sereinirornn Lim-Quartier</h4>
+                            <img src="img/team/7.jpg" alt="" class="img-responsive"/>
+                            <h4>Sereinirornn<br/>Lim-Quartier</h4>
                             <p>Directeur developpement</p>
                         </div>
                     </div>
@@ -230,21 +230,21 @@
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/8.jpg" alt="" class="img-responsive"/>
-                            <h4>Valentin Betrancourt</h4>
+                            <h4>Valentin<br/>Betrancourt</h4>
                             <p>Développeur web</p>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.5s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/5.jpg" alt="" class="img-responsive"/>
-                            <h4>Jean Ferro</h4>
+                            <h4>Jean<br/>Ferro</h4>
                             <p>Développeur</p>
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.7s">
                         <div class="box-team wow bounceInDown">
                             <img src="img/team/4.jpg" alt="" class="img-responsive"/>
-                            <h4>Enzo Avagliano</h4>
+                            <h4>Enzo<br/>Avagliano</h4>
                             <p>Développeur</p>
                         </div>
                     </div>

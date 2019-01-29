@@ -4,6 +4,15 @@
     <list default="true" id="d81bab06-1bd0-44c2-9c7e-a066b2b3373e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/img/spacer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/spacer/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/spacer/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/spacer/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +22,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            <state relative-caret-position="553">
+              <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/ft_logo-3.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/Logo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/YnovLogo.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -49,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactform/contactform.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="671">
               <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
@@ -106,6 +100,9 @@
       <find>home-section bg-white</find>
       <find>ft</find>
       <find>main</find>
+      <find>&lt;br&gt;</find>
+      <find>br</find>
+      <find>1.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>Made.</replace>
@@ -126,8 +123,8 @@
         <option value="$PROJECT_DIR$/color/default.css" />
         <option value="$PROJECT_DIR$/css/dlmenu.css" />
         <option value="C:/Program Files/Adobe/Adobe Photoshop CC 2018/AMT/application.xml" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -146,7 +143,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Workshop2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workshop2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,12 +204,12 @@
       <workItem from="1548750121643" duration="2524000" />
       <workItem from="1548756379993" duration="3966000" />
       <workItem from="1548766435473" duration="3422000" />
-      <workItem from="1548769978130" duration="601000" />
+      <workItem from="1548769978130" duration="4363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28184000" />
+    <option name="totallyTimeSpent" value="31946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -267,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/team/7.JPG" />
+    <entry file="file://$PROJECT_DIR$/img/team/7.jpg" />
     <entry file="file://$PROJECT_DIR$/img/spacer/2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -327,12 +334,22 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_helvetica-neue-5-cufonfonts-webfont.zip/style.css" />
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/dlmenu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        <state relative-caret-position="1870">
+          <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75652" selection-start-line="6" selection-start-column="75648" selection-end-line="6" selection-end-column="75652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/ft_logo-3.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Logo.png">
       <provider selected="true" editor-type-id="images" />
@@ -349,22 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contactform/contactform.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
+        <state relative-caret-position="671">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dlmenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="75652" selection-start-line="6" selection-start-column="75648" selection-end-line="6" selection-end-column="75652" />
         </state>
       </provider>
     </entry>
@@ -375,8 +378,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/ft_logo-3.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="158" column="20" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
