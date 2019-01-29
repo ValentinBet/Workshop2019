@@ -41,11 +41,11 @@
         <div class="container">
             <div class="row">
 
-                        <img src="./img/Logo.png" class="main_image">
-                </div>
+                <img src="./img/Logo.png" class="main_image">
             </div>
         </div>
     </div>
+</div>
 
 
 <section id="about" class="home-section bg-white">
@@ -58,16 +58,23 @@
                 </div>
             </div>
         </div>
-        <p>Fondée en janvier 2019 dans le cadre des Workshops et basée à Aix-en-Provence, Made. est une agence de communication
-            clé en main pour les entreprises, collectivités ou associations. Notre spectre de compétence dans le domaine du digital est varié.
-            Voici les compétences principales que nous proposons à nos clients : conseil digital, le marketing, la communication,
-            la création graphique et l’ingénierie informatique. Notre entreprise ambitieuse et flexible est prête à répondre aux problématiques
-            les plus complexes ou vos besoins les plus pointilleux. L’équipe Made. vous accompagne dans l'élaboration et la réussite de votre projet.
-            Composées de 8 personnes d’expertises variées, nous travaillons en cohésion les uns avec les autres pour répondre à vos attentes.
-        <br/> <strong>Notre objectif, c’est votre réussite !</strong>
+        <p>Fondée en janvier 2019 dans le cadre des Workshops et basée à Aix-en-Provence, Made. est une agence de
+            communication
+            clé en main pour les entreprises, collectivités ou associations. Notre spectre de compétence dans le domaine
+            du digital est varié.
+            Voici les compétences principales que nous proposons à nos clients : conseil digital, le marketing, la
+            communication,
+            la création graphique et l’ingénierie informatique. Notre entreprise ambitieuse et flexible est prête à
+            répondre aux problématiques
+            les plus complexes ou vos besoins les plus pointilleux. L’équipe Made. vous accompagne dans l'élaboration et
+            la réussite de votre projet.
+            Composées de 8 personnes d’expertises variées, nous travaillons en cohésion les uns avec les autres pour
+            répondre à vos attentes.
+            <br/> <strong>Notre objectif, c’est votre réussite !</strong>
 
-        <br/>
-            Nous sommes <strong>pluridisciplinaires</strong>, <strong>hybrides</strong>, <strong>innovant</strong>, nous sommes <strong>Made.</strong>
+            <br/>
+            Nous sommes <strong>pluridisciplinaires</strong>, <strong>hybrides</strong>, <strong>innovant</strong>, nous
+            sommes <strong>Made.</strong>
         </p>
 
     </div>
@@ -101,15 +108,27 @@
         <div class="row">
             <ul>
                 <h4>Consulting</h4>
-                <li>Pour une stratégie digitale performante, nous vous accompagnerons dans l’analyse de l'environnement et du contexte concurrentiel, dans la connaissance de vos utilisateurs, de vos publics,
-                    de vos prospects et de vos clients. Retrouvez une implication totale de la part de l’équipe Made. dans la création, l’optimisation et la compréhension de votre entreprise. </li>
+                <li>Pour une stratégie digitale performante, nous vous accompagnerons dans l’analyse de l'environnement
+                    et du contexte concurrentiel, dans la connaissance de vos utilisateurs, de vos publics,
+                    de vos prospects et de vos clients. Retrouvez une implication totale de la part de l’équipe Made.
+                    dans la création, l’optimisation et la compréhension de votre entreprise.
+                </li>
                 <h4>Webmarketing et référencement :</h4>
-                <li>Améliorez votre présence sur les réseaux sociaux grâce à nos solutions clés en main pour dynamiser votre image et apparaissez sur la première page des moteurs de recherches. Grâce à de judicieuses campagnes de médiatisation et de notoriété créées de manière sur-mesure par notre équipe, développez votre notoriété.
+                <li>Améliorez votre présence sur les réseaux sociaux grâce à nos solutions clés en main pour dynamiser
+                    votre image et apparaissez sur la première page des moteurs de recherches. Grâce à de judicieuses
+                    campagnes de médiatisation et de notoriété créées de manière sur-mesure par notre équipe, développez
+                    votre notoriété.
                 </li>
                 <h4>Identité visuelle et solutions print : Logo/visuel clé/iconographique</h4>
-                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Notre équipe de créatifs vous réalisera des supports de communication mais également une création ou une refonte de site internet de qualité en réponse à vos attentes. </li>
+                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Notre
+                    équipe de créatifs vous réalisera des supports de communication mais également une création ou une
+                    refonte de site internet de qualité en réponse à vos attentes.
+                </li>
                 <h4>Service informatique:</h4>
-                <li>Made. est composée d’une cellule dédiée au développement de solutions uniques et innovantes. Nos experts du digital sont à la pointe de l’innovation technique et seront continuellement à votre écoute.</li>
+                <li>Made. est composée d’une cellule dédiée au développement de solutions uniques et innovantes. Nos
+                    experts du digital sont à la pointe de l’innovation technique et seront continuellement à votre
+                    écoute.
+                </li>
 
             </ul>
         </div>
@@ -129,8 +148,10 @@
         </div>
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
-                <h4>Notre équipe gravite autour de valeurs communes qui nous définissent et nous les mettons au centre de nos réalisations :</h4>
-                <p><strong>Digital : </strong>le digital est bien plus qu’un phénomène de mode, mais bel et bien une culture à part entière. Étant tous issus de la génération Y (née entre 1980 et 1999),
+                <h4>Notre équipe gravite autour de valeurs communes qui nous définissent et nous les mettons au centre
+                    de nos réalisations :</h4>
+                <p><strong>Digital : </strong>le digital est bien plus qu’un phénomène de mode, mais bel et bien une
+                    culture à part entière. Étant tous issus de la génération Y (née entre 1980 et 1999),
                     cette dimension est au centre de nos préoccupations.
                 </p>
                 <p><strong>La personnalisation : </strong>grâce à nos parcours et expériences différents,
