@@ -58,7 +58,7 @@
                 </div>
             </div>
         </div>
-        <p>Fondée en janvier 2019 dans le cadre des Workshops et basée à Aix-en-Provence, Made. est une agence de
+        <p>Fondée en janvier 2019 dans le cadre des Workshops et basée à Aix-en-Provence, Made est une agence de
             communication
             clé en main pour les entreprises, collectivités ou associations. Notre spectre de compétence dans le domaine
             du digital est varié.
@@ -66,7 +66,7 @@
             communication,
             la création graphique et l’ingénierie informatique. Notre entreprise ambitieuse et flexible est prête à
             répondre aux problématiques
-            les plus complexes ou vos besoins les plus pointilleux. L’équipe Made. vous accompagne dans l'élaboration et
+            les plus complexes ou vos besoins les plus pointilleux. L’équipe Made vous accompagne dans l'élaboration et
             la réussite de votre projet.
             Composées de 8 personnes d’expertises variées, nous travaillons en cohésion les uns avec les autres pour
             répondre à vos attentes.
@@ -111,11 +111,11 @@
                 <li>Pour une meilleur stratégie digitale, nous vous suivrons tout au long dans l’analyse de
                     l'environnement
                     et du contexte concurrentiel, dans la connaissance de vos utilisateurs, de vos publics,
-                    de vos prospects et de vos clients. Retrouvez une implication totale de la part de l’équipe Made.
+                    de vos prospects et de vos clients. Retrouvez une implication totale de la part de l’équipe Made
                     dans la création, l’optimisation et la compréhension de votre entreprise.
                 </li>
                 <h4>Identité visuelle et solutions print :</h4>
-                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Made.
+                <li>Définissez les règles de votre identité de marque avec nos services d’identité visuelle. Made
                     accompagne les entreprises tout au long de leur développement dans la valorisation a l'image.
                 </li>
                 <h4>Webmarketing et référencement :</h4>
@@ -125,7 +125,7 @@
                     votre notoriété.
                 </li>
                 <h4>Service informatique / SEO:</h4>
-                <li>Made. est composée d’une cellule dédiée au développement et à la SEO, nos
+                <li>Made est composée d’une cellule dédiée au développement et à la SEO, nos
                     experts du digital vous proposerons des sites et site e-commerce sur mesures, au design personalisé
                     et seront continuellement à votre
                     écoute pour répondre a vos besoins.
@@ -326,7 +326,7 @@
         </div>
         <div class="row mar-top30 ">
             <div class="col-md-offset-2 col-md-8">
-                <h5>Made. est sur les réseaux sociaux !!</h5>
+                <h5>Made est sur les réseaux sociaux !!</h5>
                 <ul class="social-network">
                     <li><a href="https://www.facebook.com/Made.Incorporation/">
 						<span class="fa-stack fa-2x">
