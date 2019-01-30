@@ -149,14 +149,21 @@
         </div>
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
-                <h4>Notre équipe est construite autour de valeurs qui nous définissent et que nous mettons en place dans chaque projet que nous réalisons :</h4>
-                <p><strong>Ambition : </strong>nous voulons inscrire le gout du challenge, la recherche d’objectifs. Cette valeur nous permet de mener les projets à leur réussite.
+                <h4>Les caractéristiques qui définissent notre équipe sont :</h4><br/>
+                <p><strong>Innovation : </strong>Nous sommes en veille permanente sur la technologie, les techniques et outils du monde web.
+                    Nous souhaitons que chaque employé de l’agence soit curieux, créatif et porteur d’idées novatrices.
                 </p>
 
-                <p><strong>Flexibilité : </strong>c'est notre capacité à changer rapidement en fonction des désirs du client. Nous nous adaptons au fur et à mesure à l’évolution du projet et des attentes du client.
+                <p><strong>Compétences mixtes : </strong>Pour être polyvalent dans les services que l’on propose, nous devons avoir une équipe complémentaire dans ses tâches.
                 </p>
 
-                <p><strong>Réactivité : </strong>Nous devons être constamment à l’écoute de nos clients afin de nous adapter à leurs besoins et les anticiper.
+                <p><strong>Esprit d'équipe : </strong>De nombreuses réunions pour les projets seront effectuées. Une relation d’équipe forte pour pouvoir s’épauler dans des situations difficiles.
+                    Des remises en question par des prises de recul (esprit critique). 
+                </p>
+
+                <p><strong>Satisfaction Client/Qualité : </strong>Nos produits sont à forte valeur ajoutée, nous sommes tenus de satisfaire nos clients par tous les moyens, c’est pourquoi,
+                        nous mettons en place un SAV 7j/7 pour accompagner les bugs, dysfonctionnements éventuels.
+                    Compte tenu du grand nombre d’agences sur notre secteur, il est primordial d’avoir des services et produits de haute qualité.
                 </p>
 
             </div>
@@ -344,12 +351,6 @@
 						<span class="fa-stack fa-2x">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-						</span></a>
-                    </li>
-                    <li><a href="#">
-						<span class="fa-stack fa-2x">
-							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 						</span></a>
                     </li>
                 </ul>
