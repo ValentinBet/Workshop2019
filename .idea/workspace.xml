@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81bab06-1bd0-44c2-9c7e-a066b2b3373e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="366" column="25" selection-start-line="366" selection-start-column="20" selection-end-line="366" selection-end-column="25" />
+            <state relative-caret-position="280">
+              <caret line="342" column="69" selection-start-line="342" selection-start-column="69" selection-end-line="342" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -120,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="192" />
     <option name="y" value="-15" />
     <option name="width" value="1455" />
@@ -198,12 +197,12 @@
       <workItem from="1548756379993" duration="3966000" />
       <workItem from="1548766435473" duration="3422000" />
       <workItem from="1548769978130" duration="4499000" />
-      <workItem from="1548836001805" duration="174000" />
+      <workItem from="1548836001805" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32256000" />
+    <option name="totallyTimeSpent" value="32465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -337,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="366" column="25" selection-start-line="366" selection-start-column="20" selection-end-line="366" selection-end-column="25" />
+        <state relative-caret-position="280">
+          <caret line="342" column="69" selection-start-line="342" selection-start-column="69" selection-end-line="342" selection-end-column="69" />
         </state>
       </provider>
     </entry>

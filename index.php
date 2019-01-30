@@ -334,13 +334,13 @@
 							<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
 						</span></a>
                     </li>
-                    <li><a href="#">
+                    <li><a href="https://www.linkedin.com/company/made-inc">
 						<span class="fa-stack fa-2x">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 						</span></a>
                     </li>
-                    <li><a href="#">
+                    <li><a href="https://twitter.com/MadeInc6?lang=fr">
 						<span class="fa-stack fa-2x">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
